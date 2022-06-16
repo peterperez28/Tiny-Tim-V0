@@ -9,6 +9,8 @@ Initial Build of LDO V0.1.
 
 MODS to be used:
 
+Utility Belt: https://github.com/3DPrintingMods/Voron/tree/e15d7694f621edee379f47dc9e26204c3edab603/Mods/v0_utility_belt
+
 LED Mount: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/al3ph/led_mount
 
 Neopixel Front Bed Mount: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Andre/V0_Neopixel_Front_Bed_Mount
