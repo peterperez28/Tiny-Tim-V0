@@ -22,3 +22,6 @@ Extended tophat hinge: https://github.com/VoronDesign/VoronUsers/tree/master/pri
 Kirigami Bed Front: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kosh42EFG/kirigami_bed_front
 
 Kirigami Bed: https://github.com/christophmuellerorg/voron_0_kirigami_bed
+
+Additional MODS by Vector 3D : https://github.com/AdamV3D/V3D-Voron-Mods/tree/main/v0
+
