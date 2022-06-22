@@ -19,13 +19,11 @@ Utility Belt: https://github.com/3DPrintingMods/Voron/tree/e15d7694f621edee379f4
 
 LED Mount: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/al3ph/led_mount
 
-Neopixel Front Bed Mount: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Andre/V0_Neopixel_Front_Bed_Mount
-
 Extended tophat hinge: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/golas/v0-extended-tophat-hinge
 
-*DONE* Kirigami Bed Front: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kosh42EFG/kirigami_bed_front
+***DONE*** Kirigami Bed Front: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kosh42EFG/kirigami_bed_front
 
-*DONE* Kirigami Bed: https://github.com/christophmuellerorg/voron_0_kirigami_bed
+***DONE*** Kirigami Bed: https://github.com/christophmuellerorg/voron_0_kirigami_bed
 
 Additional MODS by Vector 3D : https://github.com/AdamV3D/V3D-Voron-Mods/tree/main/v0
 
