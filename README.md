@@ -12,8 +12,11 @@ Sherpa AfterBuner: https://github.com/PrintersForAnts/Mini-AfterSherpa
 
 
 MODS to be used:
+
 Zero Click - https://github.com/zruncho3d/ZeroClick
+
 Side-Swipe: https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe
+
 LED Mount: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/al3ph/led_mount
 
 ***DONE*** No-Drop Nuts (LDO frames only): https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts
