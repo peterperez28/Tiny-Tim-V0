@@ -6,7 +6,6 @@ Initial Build of LDO V0.1.
 EXTRUDER MODS
 
 Mini Sherpa : https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
-
 Sherpa AfterBuner: https://github.com/PrintersForAnts/Mini-AfterSherpa
 
 
